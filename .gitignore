@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+*.key
+
+# 评测产物（运行生成，不入库；保留 questions.jsonl 作为示例用例）
+output/
+
+# Editor / OS
+.DS_Store
+.idea/

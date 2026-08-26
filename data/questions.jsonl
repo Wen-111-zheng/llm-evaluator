@@ -1,0 +1,8 @@
+{"question": "请解释什么是机器学习中的过拟合，以及如何防止过拟合？", "keywords": ["过拟合", "训练数据", "正则化", "验证集", "交叉验证", "dropout"], "min_len": 100, "max_len": 2000}
+{"question": "Python中列表(list)和元组(tuple)有什么区别？", "keywords": ["可变", "不可变", "性能", "哈希", "字典键"], "min_len": 80, "max_len": 1500}
+{"question": "请写一段Python代码，实现斐波那契数列的前20项", "keywords": ["def", "fibonacci", "for", "return", "列表"], "min_len": 30, "max_len": 500}
+{"question": "请解释RESTful API的设计原则", "keywords": ["资源", "HTTP方法", "GET", "POST", "无状态", "URI"], "min_len": 80, "max_len": 2000}
+{"question": "什么是数据库索引？它如何提升查询性能？", "keywords": ["索引", "B树", "B+树", "查询", "性能", "全表扫描"], "min_len": 80, "max_len": 2000}
+{"question": "请用Python实现一个简单的二分查找算法", "keywords": ["def", "binary_search", "while", "mid", "left", "right"], "min_len": 20, "max_len": 500}
+{"question": "请解释Git中merge和rebase的区别", "keywords": ["merge", "rebase", "分支", "合并", "提交历史", "commit"], "min_len": 60, "max_len": 1500}
+{"question": "什么是面向对象编程的三大特性？", "keywords": ["封装", "继承", "多态", "类", "对象", "方法"], "min_len": 80, "max_len": 2000}
